@@ -1,0 +1,1 @@
+{"name":"Local: deletion_from_array","url":"d:\\Phitron\\Introduction to Programming\\Module_9\\deletion_from_array.c","tests":[{"id":1745120891149,"input":"5\n1 2 3 4 5\n1","output":"1 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Introduction to Programming\\Module_9\\deletion_from_array.c","group":"local","local":true}
