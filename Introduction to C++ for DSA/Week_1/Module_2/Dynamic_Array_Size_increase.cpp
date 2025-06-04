@@ -38,6 +38,14 @@ int32_t main()
         {
             cout << ptr[i] << " ";
         }
+        for(int i=5;i<10;i++){
+            cin>>ptr1[i];
+        }
+        cout<<endl;
+        for(int i=0;i<10;i++){
+            cout<<ptr1[i]<<" ";
+        }
+        
     }
     return 0;
 }
