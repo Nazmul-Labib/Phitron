@@ -24,6 +24,7 @@ int32_t main()
         Dhoni->jersey_no = 7;
         Dhoni->country = "India";
         Cricketer *Kohli = new Cricketer;
+        //*Kohli=*Dhoni; in this way there will be no error after deleting Dhoni
         //Kohli = Dhoni; in this way, this will produce garbage value because the address is pointed by Kohli is deleted
         Kohli->jersey_no = Dhoni->jersey_no;
         Kohli->country = Dhoni->country;
